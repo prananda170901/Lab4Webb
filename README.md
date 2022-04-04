@@ -4,19 +4,26 @@
 ## Kelas    : TI.20.A1
 ## Matkul   : Pemograman Web
 
-# Membuat Box
-## Langkah-langkah Praktikum
+# Langkah-langkah Praktikum
+## Membuat Box
 <br>Pertama membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
 ![P](img/SS1.png)
 ## membuat Box Element
 <br>Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.
 ![p](img/SS2.png)
 ## CSS Float Property
-<br>Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.
-![p](img/SS3.png)
-<br>buka pada browser untuk melihat hasilnya seperti berikut.
-![p](img/SS4.png)
+<br>Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.dan buka browser untuk melihat hasilnya
+![P](img/SS3.png)
 ## Mengatur Clearfix Element
-<br>Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk 
-mengaturnya.
-Tambahkan element div lainnya seteleah div3 seperti berikut.
+<br>Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya. Tambahkan element div lainnya seteleah div3 seperti berikut.
+![p](img/SS4.png)
+<br>Kemudian atur property clear pada CSS seperti berikut, kemudian simpan dan lihat hasilnya pada web browser. 
+![p](img/SS5.png)
+
+## Membuat Layout Sederhana
+<br>Kita akan membuat layout web sederhana seperti gambar berikut.
+![p](img/layout.png)
+<br>Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama home.html, dan file css dengan nama style.css.
+![p](img/SS6.png)
+<br>Kemudian buat kerangka layout dengan semantics element seperti berikut.
+![p](img/kerangkalayout.png)
