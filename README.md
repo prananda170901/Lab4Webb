@@ -31,3 +31,26 @@
 ![p](img/SS7.png)
 <br>Kemudian tambah kode CSS untuk membuat layout, dan hasilnya akan seperti berikut.
 ![p](img/SS8.png)
+
+## Membuat Navigasi
+<br>Selanjutnya untuk mengatur navigasi dengan kode berikut, kemudian lihat hasilnya.
+![P](img/SS9.png)
+
+## Membuat Hero Panel
+<br>Selanjutnya membuat heropanel. Tambahkankode HTML dan CSS seperti berikut.
+![p](img/SS10.png)
+<br>kemudian hasilnya akan seperti berikut:
+![p](img/SS11.png)
+
+## Mangatur Layout Main & Sidebar
+<br>Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+![p](img/SS12.png)
+
+## Membuat Sidebar Widget
+<br>kemudian tambahkan elemen lain dalam sidebar, dan juga tambahkan CSS.
+![p](img/SS13.png)
+<br>Maka hasilnya akan seperti berikut :
+![p](img/SS14.png)
+
+## Mengatur Footer
+<br>selanjutnya mengatur footer dengan menambahkan CSS untuk footer.
