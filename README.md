@@ -27,3 +27,7 @@
 ![p](img/SS6.png)
 <br>Kemudian buat kerangka layout dengan semantics element seperti berikut.
 ![p](img/kerangkalayout.png)
+<br>Kemudian tulis kode berikut dan liat hasilnya.
+![p](img/SS7.png)
+<br>Kemudian tambah kode CSS untuk membuat layout, dan hasilnya akan seperti berikut.
+![p](img/SS8.png)
