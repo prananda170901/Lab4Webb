@@ -80,3 +80,10 @@ Yang berisi form isian : nama, email, message, dll.
 ![p](img/SS22.png)
 <br>hasilnya seperti berikut.
 ![p](img/SS23.png)
+<br>2. Saya akan tambahkan layout untuk contact yang berisi nama, email, massage, dll, dengan menambahkan HTML dan CSS seperti berikut.
+![p](img/SS24.png)
+![p](img/SS25.png)
+![p](img/SS26.png)
+![p](img/SS27.png)
+<br>hasilnya akan seperti berikut.
+![p](img/SS28.png)
