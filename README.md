@@ -74,3 +74,9 @@
 Buat single layout yang berisi deskripsi,portofolio, dll.
 <br>2. Tambahkan layout untuk contact
 Yang berisi form isian : nama, email, message, dll.
+
+# jawaban
+<br>1. Disini saya akan menambahkan About yang berisi deskripsi, portofolio, dll. dengan menambahkan HTLM dan CSS seperti berikut.
+![p](img/SS22.png)
+<br>hasilnya seperti berikut.
+![p](img/SS23.png)
