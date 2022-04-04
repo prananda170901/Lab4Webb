@@ -10,8 +10,8 @@
 ![P](img/SS1.png)
 # membuat Box Element
 <br>Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.
-# CSS Float Property
 ![p](img/SS2.png)
+# CSS Float Property
 <br>Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.
 ![p](img/SS3.png)
 <br>buka pada browser untuk melihat hasilnya seperti berikut.
