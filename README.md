@@ -54,3 +54,17 @@
 
 ## Mengatur Footer
 <br>selanjutnya mengatur footer dengan menambahkan CSS untuk footer.
+![p](img/SS15.png)
+
+## Menambahkan Elemen Lainnya Pada Main Content
+![p](img/SS16.png)
+![p](img/SS17.png)
+![p](img/SS18.png)
+<br>Maka Hasilnya akan seperti berikut.
+![p](img/SS19.png)
+
+## Menambahkan Content Artikel
+<br>Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+![p](img/SS20.png)
+<br>Dan ini hasilnya.
+![p](img/SS21.png)
