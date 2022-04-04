@@ -177,4 +177,17 @@ footer {
 .entry .right-img {
  float: left;
 }
-   
+
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #eeeeee;
+    clear: both;
+    padding: 35px;
+    line-height: 25px;
+}
+.avatar {
+    width: 300px;
+    border-radius: 100%;
+}
