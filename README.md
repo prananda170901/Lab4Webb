@@ -68,3 +68,9 @@
 ![p](img/SS20.png)
 <br>Dan ini hasilnya.
 ![p](img/SS21.png)
+
+# Pertanyaan & Tugas
+<br>1. Tambahkan layout untuk membuat abut
+Buat single layout yang berisi deskripsi,portofolio, dll.
+<br>2. Tambahkan layout untuk contact
+Yang berisi form isian : nama, email, message, dll.
